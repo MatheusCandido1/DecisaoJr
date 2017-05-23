@@ -23,10 +23,10 @@
 define('DB_NAME', 'wpress');
 
 /** MySQL database username */
-define('DB_USER', 'matheus');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'qazwsx147');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
